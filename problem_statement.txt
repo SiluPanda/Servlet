@@ -22,7 +22,3 @@ Now you are all set to actually work on your assignment.  For the in-class assig
     All servlets other than the Login servlet should check for authentication via the session variable before doing any other processing, and should redirect to the login servlet in case the user is not logged in.
 
 
-Submit a zip or tar file containing all the files that you have created.  
-
-    Make sure to name the directory by your roll number, so expanding the files will create separate folders for different students.  
-    Make sure the database host, name, password etc are defined only once in static variables so your TAs can easily change them to test your program.  
